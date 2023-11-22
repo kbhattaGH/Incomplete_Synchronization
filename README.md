@@ -6,4 +6,4 @@ Code available for paper "Incomplete Synchronization in Networks of Coupled Iden
 1. Open run_ImpSynch.m
 2. Change num_iter to 50 and run
 3. Change ODE solver in line 46 to ensure numerical validity
-
+4. To change among rosseler and lorenz systems, comment/uncomment line 25 or 26.
